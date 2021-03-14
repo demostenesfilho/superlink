@@ -1,0 +1,4 @@
+[14-Mar-2021 01:03:23 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\biolink\app\core\Database.php on line 15
+[14-Mar-2021 00:17:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\biolink\themes\altum\views\dashboard\index.php on line 132
+[14-Mar-2021 00:20:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\biolink\themes\altum\views\dashboard\index.php on line 132
+[14-Mar-2021 00:20:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\biolink\themes\altum\views\dashboard\index.php on line 132
